@@ -6,7 +6,7 @@
 * set work directory
 * download, read data and set up datetime by sourcing read_data.R first
 * generate plot1.png inwork directory by sourcing plot1.R  
-* generate plot1.png inwork directory by sourcing plot2.R
-* generate plot1.png inwork directory by sourcing plot3.R
-* generate plot1.png inwork directory by sourcing plot4.R
+* generate plot2.png inwork directory by sourcing plot2.R
+* generate plot3.png inwork directory by sourcing plot3.R
+* generate plot4.png inwork directory by sourcing plot4.R
 
